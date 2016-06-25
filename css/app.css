@@ -1,0 +1,35 @@
+
+
+h3, h4, p, ul, li {
+	font-family: 'Open Sans', sans-serif;
+	color: #0d47a1;
+}
+
+.title {
+	font-size: 1.5rem;
+}
+
+.contact {
+	font-size: 1.2rem;
+}
+
+.intro {
+	font-size: 1.33rem;
+}
+
+.details {
+	font-size: 1.1rem;
+}
+
+.dhead {
+	font-size: 1.25rem;
+}
+
+.disclaimer {
+	font-size: 0.7rem;
+	font-weight: 200;
+}
+
+footer {
+	font-size: 0.8rem;
+}
