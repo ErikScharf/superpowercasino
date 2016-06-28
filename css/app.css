@@ -2,27 +2,27 @@
 
 h3, h4, p, ul, li {
 	font-family: 'Open Sans', sans-serif;
-	color: #0d47a1;
+	color: #283593;
 }
 
 .title {
-	font-size: 1.5rem;
+	font-size: 1.8rem;
 }
 
 .contact {
-	font-size: 1.2rem;
+	font-size: 1.3rem;
 }
 
 .intro {
-	font-size: 1.33rem;
+	font-size: 1.43rem;
 }
 
 .details {
-	font-size: 1.1rem;
+	font-size: 1.2rem;
 }
 
 .dhead {
-	font-size: 1.25rem;
+	font-size: 1.35rem;
 }
 
 .disclaimer {
